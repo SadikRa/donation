@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    font-family: sans-serif;
+}
+/* this is header styles */
+header{
+    padding: 25px;
+    background-image: url(/images/donation7.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    width: auto;
+    height: 850px;
+    
+}
+.help{
+    position: absolute;
+width: 826px;
+height: 158px;
+left: 307px;
+top: 174px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+line-height: 79px;
+text-align: center;
+color: azure;
+}
+.firstp{
+    position: absolute;
+    width: 691px;
+    height: 56px;
+    left: 375px;
+    top: 352px;
+    font-family: 'poppins';
+    font-size: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.btn-primary{
+    position: absolute;
+    width: 160px;
+    margin: 500px 600px 17px  ;
+    font-size: 20px;
+    color: aliceblue;
+    background-color: #ec28bbc9;
+    padding: 20px 5px;
+    border: none;
+}
+/* section styles */
+.donatet{
+    text-align: center;
+    margin-top: 130px;
+    font-size: 50px;
+}
+.secp{
+    position: absolute;
+    width: 500px;
+    margin: 30px 700px;
+}
+.diva{
+    display: flex;
+    margin: 150px 720px;
+   
+
+}
+.a{
+    margin-right: 15px;
+    padding: 25px 20px;
+    border: none;
+}
+.b{
+    margin-right: 15px;
+    padding: 25px 20px;
+    border-color: orangered;
+    background-color: rgba(134, 56, 27, 0.432);
+}
+.vdiv{
+    text-align: center;
+}
+.dbutton{
+    padding: 25px 20px;
+    font-size: 25px;
+    border-color: orangered;
+    background-color: orangered;
+}
